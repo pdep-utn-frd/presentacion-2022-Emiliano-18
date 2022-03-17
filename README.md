@@ -1,5 +1,5 @@
 ## Hola 👋, estas son algunas cosas sobre de mi.
-
+![IMG_20210320_140751_590 (1)](https://user-images.githubusercontent.com/80929464/111881517-75865a80-898f-11eb-9736-b17fe0b93772.jpg)
 - Me llamo Emiliano Carneiro, tengo 19 años y vivo en Campana.
 - Soy estudiantes de **Ing. en Sistemas de Informacion** (Legajo: 11734).
 - Soy muy introvertido😬.
